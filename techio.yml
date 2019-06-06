@@ -1,0 +1,10 @@
+title: Swift Project
+plan:
+- title: Swift on Tech.io
+  statement: markdowns/welcome.md
+projects:
+  first-project:
+    root: /swift-template
+    runner:
+      name: swift
+      version: 3.1.0
